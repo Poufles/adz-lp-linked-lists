@@ -1,4 +1,4 @@
-const LinkedList = require('./linked-list.js');
+import LinkedList from "./linked-list.mjs";
 
 const list = LinkedList();
 
